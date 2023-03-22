@@ -1,1 +1,1 @@
-Ceciest la documentation du projet 
+Ceci est la documentation du projet 
